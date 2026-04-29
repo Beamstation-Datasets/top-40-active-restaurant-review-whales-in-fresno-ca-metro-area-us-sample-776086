@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e0666c8f-0792-47b0-868a-f91e650f5f3d",
+  "export_job_id": "9b076b3e-ab65-4e3f-bf9a-63018e3144a5",
   "id_short": 776086,
-  "published_at": "2026-04-23T07:10:17Z",
+  "published_at": "2026-04-29T19:37:00Z",
   "repo_name": "top-40-active-restaurant-review-whales-in-fresno-ca-metro-area-us-sample-776086",
   "sample_asset_name": "beamstation_776086_restaurants-us-fresnoca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/776086/beamstation_776086_restaurants-us-fresnoca_SAMPLE_DIST.csv",
-  "sample_records": 34,
-  "sample_sha256": "5df3a11a1ab1b364f4e62b97c455a2326f9051513be8e52790c154148494c082",
-  "sample_size_bytes": 145464,
-  "total_records": 343
+  "sample_records": 45,
+  "sample_sha256": "48173eb3bbc9bb94545f0613bbb4da921e78ca68d8a76d8dcf0ed63c10fbfee5",
+  "sample_size_bytes": 186121,
+  "total_records": 454
 }
